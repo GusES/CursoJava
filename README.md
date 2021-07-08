@@ -1,4 +1,4 @@
-# Universidad Java 2021 - Curso de Udemy
+# Seguimiento de Curso Universidad Java 2021 en Udemy
 <pre>https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master/</pre>
 
 
@@ -13,7 +13,7 @@ Sección 6: Fundamentos Java: Ciclos en Java
 </p>
 
 + Ejercicios:
-[Fundamentos Basicos](https://github.com/GusES/CursoJava-Comienzo)
+[Ejercicios Basicos](https://github.com/GusES/CursoJava-Comienzo)
 
 <p>
 Sección 7: Fundamentos Java: Creación de Clases en Java<br>
@@ -25,3 +25,6 @@ Sección 10: Fundamentos Java: Alcance de Variables en Java
 + Ejercicio:
 [Proyecto Caja](https://github.com/GusES/CursoJava-Caja)
 
+<p>
+  Comming Soon<br>
+</p>
