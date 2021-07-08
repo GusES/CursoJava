@@ -19,6 +19,3 @@ Sección 9: Fundamentos Java: Constructores en Java<br>
 Sección 10: Fundamentos Java: Alcance de Variables en Java<br>
 </p>
 <ul><li> Ejercicio: [Proyecto Caja][https://github.com/GusES/CursoJava-Caja] </li></ul>
-<p>
-Sección 11: <br>
-</p>
