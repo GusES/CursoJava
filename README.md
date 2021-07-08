@@ -12,10 +12,9 @@ Sección 5: Fundamentos Java: Sentencias de Control<br>
 Sección 6: Fundamentos Java: Ciclos en Java<br>
 </p>
 
-<ul>   <li></li> </ul>
-
-[Ejercicio:](https://github.com/GusES/CursoJava-Comienzo)
-
+<ul><li>
+Ejercicio: [Ejercicio:](https://github.com/GusES/CursoJava-Comienzo)
+</li></ul>
 <p>
 Sección 7: Fundamentos Java: Creación de Clases en Java<br>
 Sección 8: Fundamentos Java: Métodos en Java<br>
