@@ -14,9 +14,8 @@ Sección 6: Fundamentos Java: Ciclos en Java<br>
 
 <ul>
   <li>Ejercicio: https://github.com/GusES/CursoJava-Comienzo</li>
-  <li>Or leave it empty and use the [link text itself].</li>
-  
 </ul>
+  Or leave it empty and use the [link text itself].
 [link text itself]: http://www.reddit.com
 
 <p>
