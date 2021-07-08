@@ -13,8 +13,8 @@ Sección 6: Fundamentos Java: Ciclos en Java<br>
 </p>
 
 <ul>   <li>Ejercicio: https://github.com/GusES/CursoJava-Comienzo</li> </ul>
-Or leave it empty and use the [link text itself].
-[link text itself]: http://www.reddit.com
+
+[I'm an inline-style link](https://www.google.com)
 
 <p>
 Sección 7: Fundamentos Java: Creación de Clases en Java<br>
