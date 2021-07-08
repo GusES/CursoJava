@@ -13,8 +13,13 @@ Sección 6: Fundamentos Java: Ciclos en Java<br>
 </p>
 
 <ul><li>
+   Ejercicios:   
+  [Fundamentos Basicos](https://github.com/GusES/CursoJava-Comienzo)
+
+  
+  
 </li></ul>
-  [Ejercicio:](https://github.com/GusES/CursoJava-Comienzo)
+  
 
 <p>
 Sección 7: Fundamentos Java: Creación de Clases en Java<br>
