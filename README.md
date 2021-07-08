@@ -12,7 +12,7 @@ Sección 5: Fundamentos Java: Sentencias de Control<br>
 Sección 6: Fundamentos Java: Ciclos en Java
 </p>
 
-⋅⋅⋅Ejercicios: 
++ Ejercicios:
 [Fundamentos Basicos](https://github.com/GusES/CursoJava-Comienzo)
 
 <p>
@@ -22,6 +22,6 @@ Sección 9: Fundamentos Java: Constructores en Java<br>
 Sección 10: Fundamentos Java: Alcance de Variables en Java
 </p>
 
-⋅⋅⋅Ejercicio: 
++ Ejercicio:
 [Proyecto Caja](https://github.com/GusES/CursoJava-Caja)
 
