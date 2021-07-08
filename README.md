@@ -18,7 +18,7 @@ Sección 8: Fundamentos Java: Métodos en Java<br>
 Sección 9: Fundamentos Java: Constructores en Java<br>
 Sección 10: Fundamentos Java: Alcance de Variables en Java<br>
 </p>
-<ul><li> Ejercicio: https://github.com/GusES/Caja </li></ul>
+<ul><li> Ejercicio: [Proyecto Caja](https://github.com/GusES/CursoJava-Caja) </li></ul>
 <p>
 Sección 11: <br>
 </p>
