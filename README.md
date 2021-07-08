@@ -14,7 +14,7 @@ Sección 6: Fundamentos Java: Ciclos en Java<br>
 
 <ul>
   <li>Ejercicio: https://github.com/GusES/CursoJava-Comienzo</li>
-  <li>[I'm an inline-style link](https://www.google.com)</li>
+  <li>[I'm an inline-style link with title](https://www.google.com "Google's Homepage")</li>
 </ul>
 
 <p>
