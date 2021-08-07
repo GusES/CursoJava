@@ -28,4 +28,7 @@ Sección 10: Fundamentos Java: Alcance de Variables en Java
 <p>
   Sección 11: Fundamentos Java: Paso por Valor y por Referencia en Java<br>
   Sección 12: Fundamentos Java: Uso de la palabra return y null en Java<br>
+  Sección 13: Fundamentos Java: Uso de la palabra this en Java<br>
+  Sección 14: Fundamentos Java: Encapsulamiento en Java<br>
+  Sección 15: Fundamentos Java: Contexto Estático en Java (palabra static)<br>  
 </p>
