@@ -31,4 +31,12 @@ Sección 10: Fundamentos Java: Alcance de Variables en Java
   Sección 13: Fundamentos Java: Uso de la palabra this en Java<br>
   Sección 14: Fundamentos Java: Encapsulamiento en Java<br>
   Sección 15: Fundamentos Java: Contexto Estático en Java (palabra static)<br>  
+  Sección 16: Fundamentos Java: Herencia en Java
+</p>
+
++ Ejercicio:
+[Realizar clases utilizando diagrama](https://github.com/GusES/CursoJava-Herencia)
+
+<p>
+  Pending<br>  
 </p>
