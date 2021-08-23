@@ -35,8 +35,11 @@ Sección 10: Fundamentos Java: Alcance de Variables en Java
 </p>
 
 + Ejercicio:
-[Realizar clases utilizando diagrama](https://github.com/GusES/CursoJava-Herencia)
+[Realizar las clases segun el diagrama](https://github.com/GusES/CursoJava-Herencia)
 
 <p>
-  Pending<br>  
+  Sección 17: Fundamentos Java: Sobrecarga de Constructores y Métodos en Java<br>
+  Sección 18: Fundamentos Java: Paquetes en Java<br>
+  Sección 19: Fundamentos Java: Uso de la palabra final en Java<br>
+  <br>
 </p>
