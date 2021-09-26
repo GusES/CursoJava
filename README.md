@@ -1,6 +1,5 @@
 # Seguimiento del Curso de Java que realizo en Udemy
-<pre>Universidad Java 2021 - De Cero a Experto!</pre>
-
+<pre>Curso : Universidad Java 2021 - De Cero a Experto!</pre>
 
 # Secciones Realizadas
 <p>
@@ -12,8 +11,7 @@ Sección 5: Fundamentos Java: Sentencias de Control<br>
 Sección 6: Fundamentos Java: Ciclos en Java
 </p>
 
-+ Ejercicios:
-[Ejercicios Basicos](https://github.com/GusES/CursoJava-Comienzo)
++ [Ejercicios](https://github.com/GusES/CursoJava-Comienzo)
 
 <p>
 Sección 7: Fundamentos Java: Creación de Clases en Java<br>
@@ -22,8 +20,7 @@ Sección 9: Fundamentos Java: Constructores en Java<br>
 Sección 10: Fundamentos Java: Alcance de Variables en Java
 </p>
 
-+ Ejercicio:
-[Proyecto Caja](https://github.com/GusES/CursoJava-Caja)
++ [Ejercicio](https://github.com/GusES/CursoJava-Caja)
 
 <p>
   Sección 11: Fundamentos Java: Paso por Valor y por Referencia en Java<br>
@@ -34,8 +31,7 @@ Sección 10: Fundamentos Java: Alcance de Variables en Java
   Sección 16: Fundamentos Java: Herencia en Java
 </p>
 
-+ Ejercicio:
-[Realizar las clases segun el diagrama](https://github.com/GusES/CursoJava-Herencia)
++ [Ejercicio](https://github.com/GusES/CursoJava-Herencia)
 
 <p>
   Sección 17: Fundamentos Java: Sobrecarga de Constructores y Métodos en Java<br>
