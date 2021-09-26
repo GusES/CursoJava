@@ -1,8 +1,8 @@
-# Seguimiento de Curso Universidad Java 2021 en Udemy
-<pre>https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master/</pre>
+# Seguimiento del Curso de Java que realizo en Udemy
+<pre>Universidad Java 2021 - De Cero a Experto!</pre>
 
 
-# Secciones Realizadas<br>
+# Secciones Realizadas
 <p>
 Sección 1: Fundamentos Java: Instalación Java y Apache Netbeans<br>
 Sección 2: Fundamentos Java: Variables en Java<br>
