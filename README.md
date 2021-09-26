@@ -41,5 +41,7 @@ Sección 10: Fundamentos Java: Alcance de Variables en Java
   Sección 17: Fundamentos Java: Sobrecarga de Constructores y Métodos en Java<br>
   Sección 18: Fundamentos Java: Paquetes en Java<br>
   Sección 19: Fundamentos Java: Uso de la palabra final en Java<br>
+  Sección 20: Fundamentos Java: Manejo de Arreglos en Java (arrays)<br>
+  Sección 21: Fundamentos Java: Manejo de Matrices en Java<br>
   <br>
 </p>
